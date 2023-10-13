@@ -41,7 +41,7 @@
 <h2>Executando o Projeto</h2>
 
 <p>Clone o repositório para sua máquina local:</p>
-<code>git clone https://github.com/seu-usuario/todo-list-java-swing.git</code>
+<code>git clone https://github.com/seu-usuario/ToDoList_Test.git</code>
 
 <p>Abra o projeto em sua IDE Java.</p>
 
