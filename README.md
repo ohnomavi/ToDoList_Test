@@ -1,6 +1,6 @@
 <h1> 💙 Projeto To Do List em Java 💙 </h1>
 
-<p>Este é um projeto simples de uma aplicação de To Do List desenvolvida em Java Swing. A aplicação permite a inclusão e exclusão de lembretes em datas futuras, garantindo que somente datas futuras sejam aceitas.</p>
+<p>Este é um projeto simples de uma aplicação de To Do List desenvolvida em Java Swing. A aplicação permite a inclusão e exclusão de lembretes, garantindo que somente datas futuras sejam aceitas.</p>
 
 
 ## Sumário
