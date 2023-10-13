@@ -5,21 +5,13 @@
 
 ## Sumário
 - [Requisitos](#requisitos)
-   
 - [Executando o Projeto](#executando-o-projeto)
-
 - [Passo a passo para uso](#passo-a-passo-para-uso)
-  
 - [Funcionalidades](#funcionalidades)
-  
 - [Estrutura do Projeto](#estrutura-do-projeto)
-  
 - [Testes](#testes)
-
 - [Premissas Assumidas](#premissas-assumidas)
-
 - [Decisões de Projeto](#decisões-de-projeto)
-  
 - [Contribuições](#contribuições)
 <p></p>
 💙
